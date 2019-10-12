@@ -10,7 +10,7 @@ A Data Structure is a way of organizing data so that it can be used effectively.
 A simple approach is to do linear search.The time complexity of above algorithm is O(n).
 Another approach to perform the same task is using Binary Search.
 
-#Binary Search:
+.: Binary Search:
 Search a sorted array by repeatedly dividing the search interval in half.
 Begin with an interval covering the whole array.
 If the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half.
