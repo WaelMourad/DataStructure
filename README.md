@@ -5,7 +5,7 @@ A Data Structure is a way of organizing data so that it can be used effectively.
 
 # Algorithms: Binary Search
 
-# Problem Solving: Given a sorted array arr[] of n elements, write a function to search a given element x in arr[]
+# 1. Problem Solving: Given a sorted array arr[] of n elements, write a function to search a given element x in arr[]
 
 A simple approach is to do linear search.The time complexity of above algorithm is O(n).
 Another approach to perform the same task is using Binary Search.
