@@ -1,4 +1,4 @@
-﻿using DataStructure.SearchAlgorisms;
+﻿using DataStructure.SearchAlgorithms;
 using System;
 
 namespace DataStructure

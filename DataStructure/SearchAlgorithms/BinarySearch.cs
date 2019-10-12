@@ -1,4 +1,4 @@
-﻿namespace DataStructure.SearchAlgorisms
+﻿namespace DataStructure.SearchAlgorithms
 {
     public class BinarySearch
     {
