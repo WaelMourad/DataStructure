@@ -34,4 +34,7 @@ If x matches with middle element, we return the mid index.
 Else If x is greater than the mid element, then x can only lie in right half sub-array after the mid element. So we recur for right half.
 Else (x is smaller) recur for the left half.
 
+![Binary Search](https://user-images.githubusercontent.com/43314665/66706347-8d38c880-ed31-11e9-8359-e36a11410d02.png)
+
+
 
